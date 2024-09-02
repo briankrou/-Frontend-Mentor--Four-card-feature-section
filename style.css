@@ -1,0 +1,40 @@
+:root{
+  
+--red: hsl(0, 78%, 62%);
+--cyan: hsl(180, 62%, 55%);
+--orange: hsl(34, 97%, 64%);
+--blue: hsl(212, 86%, 64%);
+
+--very-dark-blue: hsl(234, 12%, 34%);
+--grayish-blue: hsl(229, 6%, 66%);
+--very-light-gray: hsl(0, 0%, 98%);
+
+}
+
+
+*,**,::before,::after{
+  margin: 0;
+  padding: 0;
+}
+h1,h2,h3,h4,h5,p{
+  font-size: 15px;
+}
+html,body{
+  width: 100%;
+  height: 100%;
+  margin: 0;
+  padding: 0;
+}
+main{
+  padding: 4rem 2rem;
+}
+
+.header{
+    text-align: center;
+}
+.container-card{
+  display: flex;
+  flex-wrap: wrap;
+  gap: 15px;
+  justify-content: space-between;
+}

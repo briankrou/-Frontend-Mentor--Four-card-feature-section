@@ -1,0 +1,12 @@
+.card {
+  width: 100vw;
+  box-shadow: 2px 1px 10px 0px var(--grayish-blue);
+  border-radius: 5px;
+  -webkit-border-radius: 5px;
+  -moz-border-radius: 5px;
+  -ms-border-radius: 5px;
+  -o-border-radius: 5px;
+}
+.card-title{
+    font-size: 20px;
+}
