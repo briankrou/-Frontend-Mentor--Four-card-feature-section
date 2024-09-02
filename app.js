@@ -22,7 +22,7 @@ const App = () => {
 
                     title: 'Supervisor',
                     description: 'Monitors activity to identify project roadblocks',
-                    icon: './images/icon-supervisor.svg',
+                    icon: '/images/icon-supervisor.svg',
                     color: "hsl(180, 62%, 55%)"
                 }
             ).element()}
@@ -32,7 +32,7 @@ const App = () => {
 
             title: 'Team Builder',
             description: 'Scans our talent network to create the optimal team for your project',
-            icon: './images/icon-team-builder.svg',
+            icon: '/images/icon-team-builder.svg',
             color: "hsl(0, 78%, 62%)"
 
         }
@@ -45,7 +45,7 @@ const App = () => {
 
             title: 'karma',
             description: 'Regularly evaluates our talent to ensure quality',
-            icon: './images/icon-karma.svg',
+            icon: '/images/icon-karma.svg',
             color: "hsl(34, 97%, 64%)"
 
         }
@@ -56,7 +56,7 @@ const App = () => {
 
             title: 'calculator',
             description: 'Users data past projects to provide better delivery estimates',
-            icon: './images/icon-calculator.svg',
+            icon: '/images/icon-calculator.svg',
             color: 'hsl(212, 86%, 64%)'
 
         }
