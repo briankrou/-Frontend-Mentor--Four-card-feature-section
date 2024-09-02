@@ -56,7 +56,7 @@ const App = () => {
 
             title: 'calculator',
             description: 'Users data past projects to provide better delivery estimates',
-            icon: '/images/icon-calculator.svg',
+            icon: './images/icon-calculator.svg',
             color: 'hsl(212, 86%, 64%)'
 
         }
