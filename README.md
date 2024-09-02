@@ -10,8 +10,8 @@ Users should be able to:
 
 ### Screenshot
 
-![desktop](/screenshot.jpg)
-![mobile](/screenshot-nobile.jpg)
+![desktop](./screenshot.png)
+![mobile](./screenshot-mobile.png)
 
 ### Links
 
