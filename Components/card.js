@@ -12,7 +12,7 @@ const Card = ({ title, description, icon, color }) => {
       <p class="card-description">${description}</p>
     </div>
       <div class="card-icon">
-        <img src="${icon}" alt="icon" />
+        <img src="./images/${icon}" alt="icon" />
       </div>
     </div>
   `;
